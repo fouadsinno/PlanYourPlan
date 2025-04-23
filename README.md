@@ -2,7 +2,7 @@
 
 Project Name: PollYourPlan
 
-Application Description: Have you ever struggled setting up a plan with a group of people that just doesn't end up working out? PollYourPlan helps you coordinate events with others in 2-3 clicks by turning the planning process into a simple and efficient poll system. Instead of endless messages, users enter a group poll to create and vote on polls for a date, location, and occasion. When everyone responds, each user can confirm the poll to automatically generate a Google Calendar invite, so that no one forgets and shows up late (or not show up at all).
+Application Description: Have you ever struggled setting up a plan with a group of people that just doesn't end up working out? PollYourPlan helps you coordinate events with others in 3* clicks by turning the planning process into a simple and efficient poll system. Instead of endless messages in a group chat, users enter a group poll to create and vote on polls for an event/appointment. When everyone responds, each user can confirm the poll to automatically generate a Google Calendar invite, so that no one forgets and shows up late (or not show up at all).
 
 Features + Tools/Technologies:
 - Poll Creation: Users can create a poll with a date, location, and occasion. This uses React, HTML, and CSS.
