@@ -16,4 +16,5 @@ Timeline (complete by):
 - April 28: Support Multi-User Interaction
 - April 30: Support Google Calendar Integration
 - May 1: Ensure all features work together
+
 We aim to complete all portions together every day in-person until the completion of the project.
