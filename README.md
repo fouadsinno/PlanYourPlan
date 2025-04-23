@@ -11,8 +11,9 @@ Features + Tools/Technologies:
 - Calendar Event Generation: Each user can click Confirm to generate a calendar event. This uses JavaScript and a Google Calendar Event Creation URL.
 - Storing Data: Polls and votes are saved after refreshing/closing the browser. This uses JavaScript and localStorage.
 
-Timeline:
+Timeline (complete by):
 - April 26: Frotend Design
 - April 28: Support Multi-User Interaction
 - April 30: Support Google Calendar Integration
 - May 1: Ensure all features work together
+We aim to complete all portions together every day in-person until the completion of the project.
