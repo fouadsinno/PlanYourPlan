@@ -12,7 +12,7 @@ Features + Tools/Technologies:
 - Storing Data: Polls and votes are saved after refreshing/closing the browser. This uses JavaScript and localStorage.
 
 Timeline:
-April 26: Frotend Design
-April 28: Support Multi-User Interaction
-April 30: Support Google Calendar Integration
-May 1: Ensure all features work together
+- April 26: Frotend Design
+- April 28: Support Multi-User Interaction
+- April 30: Support Google Calendar Integration
+- May 1: Ensure all features work together
