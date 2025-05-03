@@ -1,0 +1,40 @@
+.app {
+  font-family: sans-serif;
+  max-width: 650px;
+  margin: 2rem auto; /*horizontally center*/
+  padding: 1rem;
+}
+
+.create-poll input {
+  font-size: 1rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.create-poll button {
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+}
+
+.poll {
+  background: white;
+  padding: 1rem;
+  border-radius: 25px; /*the poll margin*/
+  margin-top: 1rem;
+}
+
+.responses button {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+  margin-top: 0.2rem;
+}
+
+.confirmed {
+  color: green;
+  font-weight: bold;
+}
+
+body {
+  background-color: #966ec2;
+  font-size: 18px;
+}
